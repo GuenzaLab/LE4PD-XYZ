@@ -1,5 +1,5 @@
 # LE4PD-XYZ
-Codes and data for Frontiers in Molecular Biosciences article on LE4PD-XYZ model
+Codes and data for Journal of Chemical Physics article on LE4PD-XYZ model
 
 # Dependencies
 The following "non-standard" Python libraries MUST be installed for this code to work correctly:
